@@ -1,0 +1,13 @@
+git 
+
+git congig -l
+git config --global -l
+git congig --global user.name " "
+git config --global user.email "  "
+
+location to 
+
+git init
+git status
+git add file.txt
+git status
